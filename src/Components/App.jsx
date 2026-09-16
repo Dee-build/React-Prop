@@ -24,7 +24,7 @@ function App() {
             color="bg-blue-400 text-white"
             borderRadius="rounded-full"
           />
-          <Button title="Login" color="bg-green-400"/>
+          <Button title="Login" color="bg-green-400 text-white"/>
         </div>
 
         <Layout>

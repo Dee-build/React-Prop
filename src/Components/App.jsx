@@ -2,6 +2,7 @@
 import "./App.css"
 import Button from "./Button.jsx"
 import Layout from "./Layout"
+import List from "./List"
 
 function MissedGoal() {
   return <h1 className="bg-red-400">Goal Missed</h1>
@@ -40,6 +41,7 @@ function App() {
               neque harum ad assumenda. Accusantium explicabo beatae hic nisi.
           </div>
         </Layout>
+        <List/>
 
     </>
   );
